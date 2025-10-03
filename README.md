@@ -59,7 +59,7 @@ Requirements:
 * cmake-js installed globablly with `npm i -g cmake-js` (or could be added as a dependency later...)
 
 ```bash
-git clone https://github.com/Yuu6883/Cytos.git
+git clone https://github.com/alphyweb/Cytos.git
 cd Cytos
 ./addon.sh
 cd source-js
